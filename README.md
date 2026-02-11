@@ -3,7 +3,7 @@
 Desde cedo, descobri que minha maior paixão é a **resolução de problemas**. O que começou observando meu pai e meu avô lidando com tecnologia, transformou-se em uma dedicação profunda ao desenvolvimento de sistemas robustos e eficientes.
 
 ### 🚀 Sobre mim
-- 🎓 Estudante focado no ingresso em **Engenharia da Computação na USP**.
+- 🎓 Estudante focado no ingresso em **Engenharia da Computação**.
 - 💻 Especializando-me em **Desenvolvimento Back-End**, com foco principal em **Java**.
 - 🏆 Premiado com Honra ao Mérito acadêmico e destaque em Língua Inglesa.
 - 🧩 Acredito que a programação é a ferramenta definitiva para transformar desafios lógicos em soluções reais.
