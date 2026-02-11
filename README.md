@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o João Victor Predeus! 👋
 
-<!--
-**vpredeus/vpredeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde cedo, descobri que minha maior paixão é a **resolução de problemas**. O que começou observando meu pai e meu avô lidando com tecnologia, transformou-se em uma dedicação profunda ao desenvolvimento de sistemas robustos e eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Estudante focado no ingresso em **Engenharia da Computação na USP**.
+- 💻 Especializando-me em **Desenvolvimento Back-End**, com foco principal em **Java**.
+- 🏆 Premiado com Honra ao Mérito acadêmico e destaque em Língua Inglesa.
+- 🧩 Acredito que a programação é a ferramenta definitiva para transformar desafios lógicos em soluções reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagem Principal:** Java
+- **Interesses:** Arquitetura de Sistemas, Algoritmos, Bancos de Dados e Engenharia de Software.
+- **Foco Atual:** Aprofundamento no ecossistema Java e preparação para desafios acadêmicos de alto nível.
+
+### 🎯 Objetivos
+Meu foco atual é unir a base teórica da Engenharia com a prática do mercado, construindo sistemas escaláveis e resolvendo problemas que impactem o mundo real.
+
+---
+
+### 📫 Vamos nos conectar?
+[LinkedIn](link-do-seu-linkedin) | [E-mail](seu-email@exemplo.com)
