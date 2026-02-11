@@ -19,4 +19,4 @@ Meu foco atual é unir a base teórica da Engenharia com a prática do mercado, 
 ---
 
 ### 📫 Vamos nos conectar?
-[LinkedIn](link-do-seu-linkedin) | [E-mail](seu-email@exemplo.com)
+[LinkedIn](www.linkedin.com/in/vpredeus) | [E-mail](jvpredeus@gmail.com)
