@@ -122,11 +122,19 @@ Hoje, busco construir uma base sólida em desenvolvimento de software, principal
 ## Estatísticas do GitHub
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vpredeus&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img 
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=vpredeus&show_icons=true&theme=transparent&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
 </p>
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpredeus&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img 
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpredeus&layout=compact&theme=transparent&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 ---
