@@ -119,6 +119,7 @@ Hoje, busco construir uma base sólida em desenvolvimento de software, principal
 
 ---
 
+<!--
 ## Estatísticas do GitHub
 
 <p align="left">
@@ -136,6 +137,7 @@ Hoje, busco construir uma base sólida em desenvolvimento de software, principal
     alt="Linguagens mais usadas"
   />
 </p>
+-->
 
 ---
 
