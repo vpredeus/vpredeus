@@ -36,8 +36,8 @@ Atualmente estudo e desenvolvo projetos envolvendo lógica de programação, API
     <img src="https://img.shields.io/badge/GitHub-vpredeus-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vpredeus/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-vpredeus-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
   <a href="#" target="_blank">
